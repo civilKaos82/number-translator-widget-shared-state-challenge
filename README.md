@@ -1,4 +1,4 @@
-# Translator Widget with Shared State
+# Number Translator Widget with Shared State
 
 ## Learning Objectives
 
